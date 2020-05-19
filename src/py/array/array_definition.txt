@@ -1,0 +1,17 @@
+WHAT IS AN ARRAY :
+    1. Data structure to store homegeneous elements at contiguous location
+    2. One memory block is allocated for entire array to hold the elements.
+       The array elements can be accessed in constant time by using index of a particular element.
+
+PROPERTIES OF AN ARRAY:
+    1. Store similar data types
+    2. each value sctored is element and are indexed
+    3. elements can be retrieved using index
+    4. elements are stored in contiguous memory location
+    5. array size should e declared at the time of creation itself.
+
+DISADVANTAGES OF ARRAY:
+    1. Fixed Size : Size of an array is static
+    2. One Block Allocation: 
+    3. Complex poition based Insertion : To insert an element at a given position , 
+    we need to shift the existing elemnts.       
